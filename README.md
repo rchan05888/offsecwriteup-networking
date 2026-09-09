@@ -1,1 +1,1 @@
-Project and Labs that encapsulates the material that I've been creating for my college education.
+Project and Labs that encapsulates the material that I've been creating for my college education. Many of the projects and labs are derived from TryHackMe, Cisco Packet Tracer, PortSwigger Academy, and more.
